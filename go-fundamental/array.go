@@ -20,10 +20,10 @@ func main() {
 
 	var values = [...]int{
 		90,
-		81, 
+		81,
 		80,
 		100,
-		110
+		110,
 	}
 
 	fmt.Println(values[0])
